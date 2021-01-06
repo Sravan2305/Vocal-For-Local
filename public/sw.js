@@ -49,11 +49,11 @@ const assets = [
   '/topLatestProducts',
 
     '/static/js/2.8e26557a.chunk.js',
-    '/static/js/main.abae6c15.chunk.js',
+    '/static/js/main.b2664751.chunk.js',
     '/static/css/2.20aa2d7b.chunk.css',
-    '/static/css/main.cfc7d7b4.chunk.css',
+    '/static/css/main.6ab5a6eb.chunk.css',
     '/static/js/3.07a7d1af.chunk.js',
-    '/static/js/runtime-main.1d3d2e19.js',
+    '/static/js/runtime-main.f2de01f1.js',
 
 
 ];
