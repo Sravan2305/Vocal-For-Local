@@ -26,4 +26,3 @@ it("MyLatestProducts renders without crashing", () => {
         </BrowserRouter>
         , container);
 })
-

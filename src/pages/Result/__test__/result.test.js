@@ -27,4 +27,3 @@ it("Results page renders without crashing", () => {
         </BrowserRouter>
         , container);
 })
-
