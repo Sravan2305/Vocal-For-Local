@@ -46,7 +46,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "DISABLE_ESLINT_PLUGIN=true react-scripts build",
+    "build": "CI= react-scripts build",
     "test": "react-scripts test",
     "unittest": "jest",
     "test:watch": "npm test -- --watch",
