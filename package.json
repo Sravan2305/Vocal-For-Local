@@ -17,7 +17,7 @@
     "formik": "^2.2.5",
     "history": "^5.0.0",
     "mdbreact": "^5.0.1",
-    "node-sass": "^6.0.0",
+
     "query-string": "^6.13.7",
     "react": "^17.0.1",
     "react-avatar": "^3.9.7",
